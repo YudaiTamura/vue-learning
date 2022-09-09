@@ -1,8 +1,24 @@
-# 概要
+# hello-vue
 
-vue 学習用のリポジトリ
+## Project setup
+```
+yarn install
+```
 
-# 運用
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
 
-- あくまでも学習用リポジトリなので master に直接 commit
-- 学習が終わったらアーカイブ予定
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
